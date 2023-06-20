@@ -1,0 +1,4 @@
+// Allows for auto completion in code editor. Yay for intelliSense!
+{
+    "include": ["./node_modules/cypress", "cypress/**/*.js"]
+}
